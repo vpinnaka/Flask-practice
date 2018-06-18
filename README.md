@@ -11,7 +11,7 @@ Password: *******
 ```
 * Use the boiler-plate code from [this](.) repository and clone it to your local
 ```
-$ git clone https://github.com/vpinnaka/Flask-practice/tree/1.0
+$ git clone https://github.com/vpinnaka/Flask-practice/tree/v1.0
 $ cd Flask-practice
 ```
 * Install all the requirements (Use `pipenv` for convineance)
